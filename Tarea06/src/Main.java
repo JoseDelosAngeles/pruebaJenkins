@@ -1,4 +1,4 @@
-package control
+package main
 
 public class Main {
 
